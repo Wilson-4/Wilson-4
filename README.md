@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wilson-4
-- 👀 I’m interested in becoming a programer and developer
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on HTML projects
+- 👀 I’m a programer and developer
+- 🌱 I’m currently learning Frontend Development
+- 💞️ I’m looking to collaborate and network
 - 📫 How to reach me 
 
 <!---
